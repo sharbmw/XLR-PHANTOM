@@ -4,3 +4,7 @@ The preamplifier was tested on the "BM800" Condenser Microphone and is suppose t
 In general this is a Balanced TO Unbalanced audio converter with Pahntom Power.
 
 Recommended input voltage is between 30-48 volts DC.
+
+Potentiometer:
+VR1 - Gain.
+VR2 - Volume.
